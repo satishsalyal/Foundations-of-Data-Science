@@ -102,6 +102,7 @@ Here are some of the **major benefits** of Data Science across sectors:
 1. *Joel Grus*, **"Data Science from Scratch"**, O’Reilly.
 2. *Sanjeev Wagh et al.*, **"Fundamentals of Data Science"**, CRC Press.
 3. *Avrim Blum et al.*, **"Foundations of Data Science"**, Cambridge University Press.
+4. Explore datasets on Kaggle (kaggle.com) or UCI Machine Learning Repository.
 
 ---
 
