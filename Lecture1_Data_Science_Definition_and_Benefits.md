@@ -1,4 +1,4 @@
-# 📘 Lecture Notes  
+# 📘 Lecture 1  
 ## ✨ Topic: Definition and Benefits of Data Science
 
 ---
