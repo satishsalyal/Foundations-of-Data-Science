@@ -7,7 +7,7 @@
 <details>
 <summary>📊 **Mathematics**</summary>
 
-- ➗ **Linear Algebra**
+- ➗  **Linear Algebra**
   - Matrix
   - Vector
 - 📐 **Analytic Geometry**
