@@ -5,7 +5,7 @@
 ---
 
 <details>
-<summary>📊 **Mathematics**</summary>
+<summary>📊  Mathematics </summary>
 
 - ➗  **Linear Algebra**
   - Matrix
@@ -48,7 +48,7 @@
 ---
 
 <details>
-<summary>💻 **Programming & Tools**</summary>
+<summary>💻 Programming & Tools</summary>
 
 - 🐍 **Python**
 - 📊 **R**
@@ -78,7 +78,7 @@
 ---
 
 <details>
-<summary>🤖 **Machine Learning**</summary>
+<summary>🤖 Machine Learning</summary>
 
 - 📚 **Introduction**
   - How Models Work
@@ -101,7 +101,7 @@
 ---
 
 <details>
-<summary>🧠 **Deep Learning**</summary>
+<summary>🧠 Deep Learning</summary>
 
 - 🧩 **Fundamentals**
   - A Single Neuron
@@ -125,7 +125,7 @@
 ---
 
 <details>
-<summary>🛠️ **Feature Engineering**</summary>
+<summary>🛠️ Feature Engineering</summary>
 
 - Feature Engineering Basics
 - Baseline Model
@@ -138,7 +138,7 @@
 ---
 
 <details>
-<summary>🗣️ **Natural Language Processing (NLP)**</summary>
+<summary>🗣️ Natural Language Processing (NLP)</summary>
 
 - Text Classification
 - Word Vectors
@@ -148,7 +148,7 @@
 ---
 
 <details>
-<summary>☁️ **Deployment**</summary>
+<summary>☁️ Deployment</summary>
 
 - Microsoft Azure
 - Heroku
@@ -160,4 +160,3 @@
 
 ---
 
-✨ **Tip:** Follow this roadmap in order, but don't hesitate to jump into practical projects early to reinforce your learning!
