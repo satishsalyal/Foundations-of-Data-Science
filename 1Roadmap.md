@@ -8,14 +8,13 @@
 <summary>📊  Mathematics </summary>
 
 - ➗  **Linear Algebra**
-  - Matrix
-  - Vector
+-  🧮 Matrix
+- Vector
 - 📐 **Analytic Geometry**
 - 📉 **Regression**
 - 📏 **Dimensionality Reduction**
-  - Density
-  - Optimization
-  - Estimation
+- Density Estimation
+- Optimization
 - 📈 **Calculus**
 - 🎲 **Probability**
   - Introduction to Probability
