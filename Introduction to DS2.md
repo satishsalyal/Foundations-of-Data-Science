@@ -20,4 +20,4 @@ Goes a step further—recommending the *best* course of action based on predicte
 **Example:** To prepare for a predicted booking spike, prescriptive analysis might evaluate different marketing budgets and channels to determine the most effective campaign strategy, giving the company greater confidence in its decisions.
 
 
-![Data Science Infographic](")
+![Data Science Infographic](https://github.com/satishsalyal/Foundations-of-Data-Science/blob/main/DS1.png)
