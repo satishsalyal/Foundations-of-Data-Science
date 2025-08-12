@@ -18,3 +18,6 @@ Uses historical data to forecast future trends. Techniques include machine learn
 ### 4. Prescriptive Analysis
 Goes a step further—recommending the *best* course of action based on predicted outcomes. It leverages tools like graph analysis, simulations, neural networks, and recommendation engines.  
 **Example:** To prepare for a predicted booking spike, prescriptive analysis might evaluate different marketing budgets and channels to determine the most effective campaign strategy, giving the company greater confidence in its decisions.
+
+
+![Data Science Infographic](")
