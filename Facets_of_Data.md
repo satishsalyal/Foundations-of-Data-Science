@@ -1,6 +1,6 @@
 # 🌐 Facets of Data
 
-A In the era of Big Data and Data Science, enormous volumes of information are generated every second from a wide range of sources. This data is diverse in form, format, and complexity. To manage, store, and analyze such vast datasets effectively, it is essential to understand the different categories of data. The primary facets are as follows:
+In the era of Big Data and Data Science, enormous volumes of information are generated every second from a wide range of sources. This data is diverse in form, format, and complexity. To manage, store, and analyze such vast datasets effectively, it is essential to understand the different categories of data. The primary facets are as follows:
 
 - 📊 **Structured**
 - 📝 **Natural Language**
