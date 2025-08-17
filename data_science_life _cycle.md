@@ -23,6 +23,20 @@
 - [Level Up 🚀](#-transform-your-data-science-career)  
 
 ---
+## 📊 Data Science Process Flowchart  
+
+```mermaid
+flowchart TD
+    A[Define the Problem] --> B[Data Collection]
+    B --> C[Data Cleaning 🧹]
+    C --> D[Exploration & Analysis 🔍]
+    D --> E[Feature Engineering ⚙️]
+    E --> F[Model Development 🤖]
+    F --> G[Model Evaluation ✅]
+    G --> H[Model Deployment 🚀]
+    H --> I[Feedback & Iteration 🔄]
+    I --> B
+```
 
 ## 🌟 Overview  
 
