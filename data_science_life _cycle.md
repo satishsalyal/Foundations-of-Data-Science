@@ -167,7 +167,7 @@ An e-commerce recommendation engine may need retraining if customer preferences 
 
 ```mermaid
 
-flowchart LR
+flowchart TD
     A[Define the Problem] --> B[Data Collection]
     B --> C[Data Cleaning 🧹]
     C --> D[Exploration & Analysis 🔍]
