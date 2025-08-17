@@ -1,6 +1,8 @@
 # 🚀 The Data Science Process  
-
 *A step-by-step guide to turning raw data into meaningful solutions.*  
+The data science process consists of a series of structured steps that systematically transform raw data into meaningful and actionable insights. 
+Each stage plays a critical role in ensuring the accuracy, relevance, and effectiveness of the final outcome. The following sections provide a detailed explanation of these steps.
+
 
 ---
 
@@ -174,3 +176,4 @@ flowchart TD
     G --> H[Model Deployment 🚀]
     H --> I[Feedback & Iteration 🔄]
     I --> B
+```
