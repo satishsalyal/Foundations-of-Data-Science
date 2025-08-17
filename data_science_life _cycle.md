@@ -166,14 +166,60 @@ An e-commerce recommendation engine may need retraining if customer preferences 
 ## 📊 Data Science Process Flowchart  
 
 ```mermaid
-flowchart TD
-    A[Define the Problem] --> B[Data Collection]
-    B --> C[Data Cleaning 🧹]
-    C --> D[Exploration & Analysis 🔍]
-    D --> E[Feature Engineering ⚙️]
-    E --> F[Model Development 🤖]
-    F --> G[Model Evaluation ✅]
-    G --> H[Model Deployment 🚀]
-    H --> I[Feedback & Iteration 🔄]
-    I --> B
+flowchart LR
+  %% ========== LAYOUT DIRECTION ==========
+  %% Left-to-right for better readability on GitHub
+
+  %% ========== PHASE GROUPS ==========
+  subgraph P1[🧭 Problem Framing]
+    A[🧭 Define the Problem]
+  end
+
+  subgraph P2[📦 Data Preparation]
+    B[📥 Data Collection]
+    C[🧹 Data Cleaning]
+    D[🔍 Exploration & Analysis]
+    E[⚙️ Feature Engineering]
+  end
+
+  subgraph P3[🧠 Modeling]
+    F[🤖 Model Development]
+    G[✅ Model Evaluation]
+  end
+
+  subgraph P4[🚀 Production]
+    H[🚀 Model Deployment]
+    I[🔄 Feedback & Iteration]
+  end
+
+  %% ========== FLOW WITH HELPFUL EDGE LABELS ==========
+  A -- scope, goals, metrics --> B
+  B -- raw sources, APIs, logs --> C
+  C -- tidy, consistent, validated --> D
+  D -- patterns, anomalies, signals --> E
+  E -- selected & engineered features --> F
+  F -- train & tune models --> G
+  G -- metrics & error analysis --> H
+  H -- serve via API/app --> I
+  I -- monitor, retrain, improve --> B
+
+  %% ========== STYLES ==========
+  %% Node classes
+  classDef pf   fill:#FFF3CD,stroke:#FFB300,stroke-width:2px,color:#2B2B2B;
+  classDef dp   fill:#E8F5E9,stroke:#43A047,stroke-width:2px,color:#1B5E20;
+  classDef mdl  fill:#E3F2FD,stroke:#1E88E5,stroke-width:2px,color:#0D47A1;
+  classDef prod fill:#F3E5F5,stroke:#8E24AA,stroke-width:2px,color:#4A148C;
+
+  %% Apply classes
+  class A pf;
+  class B,C,D,E dp;
+  class F,G mdl;
+  class H,I prod;
+
+  %% Link styles: make the feedback loop dashed to highlight iteration
+  linkStyle 8 stroke:#8E24AA,stroke-width:2px,stroke-dasharray:5 3;
+
+  %% Optional: slightly bolder main flow links
+  linkStyle 0,1,2,3,4,5,6,7 stroke:#607D8B,stroke-width:1.8px;
+
 ```
