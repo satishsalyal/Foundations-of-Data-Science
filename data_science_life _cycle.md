@@ -97,7 +97,7 @@ Once the data is cleaned and features are engineered, the next step in the data 
 
 - **Hyperparameter Tuning:** Optimize model performance by fine-tuning hyperparameters (e.g., learning rate, maximum tree depth, number of estimators). Techniques such as Grid Search, Random Search, or Bayesian Optimization can be used for this process.  
 
-- **Cross-Validation:**Apply methods like k-fold cross-validation to evaluate model performance on different subsets of data. This helps ensure the model generalizes well and minimizes overfitting.   
+- **Cross-Validation:** Apply methods like k-fold cross-validation to evaluate model performance on different subsets of data. This helps ensure the model generalizes well and minimizes overfitting.   
 
  
 
