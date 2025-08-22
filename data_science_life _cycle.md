@@ -55,7 +55,7 @@ Data cleaning is a vital step in the data science process that **ensures the dat
 ### 🔹 Steps Involved  
 - **Handle missing values** (imputation, deletion, or algorithm-based approaches) Identify missing values and apply appropriate techniques such as imputation, deletion, or leveraging algorithms designed to handle incomplete data  .  
 - **Remove duplicates that skew analysis:** Detect and eliminate duplicate records to prevent bias or overrepresentation in the dataset.  
-- Standardize formats and correct inconsistencies (e.g., *"NY"* vs *"New York"*).  
+- Standardize formats and correct inconsistencies (e.g., *"J&K"* vs *"Jammu and Kashmir"*).  
 - **Detect and handle outlier:** Identify unusual values and decide whether to retain, adjust, or remove them, depending on their impact on the analysis.
 
 
