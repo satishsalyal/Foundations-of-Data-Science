@@ -18,7 +18,7 @@ Data science leverages **statistical models**, **machine learning**, and **big d
 
 ---
 
-## 🔹 Applications of Data Science  
+## 🔹 Role of Data Science in Decision Making
 
 <details>
 <summary>🎯 Marketing & Customer Analytics</summary>  
