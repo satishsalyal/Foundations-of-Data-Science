@@ -37,7 +37,7 @@ Data science enables businesses to gain a **deep understanding of customer behav
 This leads to **personalized and engaging experiences**, fostering **loyalty** and driving **long-term success**.  
 
 **Examples:**  
-- 🎬 **Netflix** powers its recommendation engine by analyzing viewing history, ratings, and preferences, keeping users engaged and reducing churn.  
+- 🎬 **Netflix or Youtube** powers its recommendation engine by analyzing viewing history, ratings, and preferences, keeping users engaged and reducing churn.  
 - 🥤 **Coca-Cola** segments its audience and creates targeted campaigns based on lifestyle and consumption data.  
 
 ---
@@ -47,7 +47,7 @@ This leads to **personalized and engaging experiences**, fostering **loyalty** a
 By analyzing operational data, businesses can **identify bottlenecks, streamline processes, and cut costs**, resulting in higher **productivity** and **efficiency**.  
 
 **Examples:**  
-- 🚚 **UPS** uses its ORION system to optimize delivery routes, saving millions annually by reducing fuel consumption.  
+- 🚚 **Uber** uses its Data analysis system to optimize delivery routes, saving millions annually by reducing fuel consumption.  
 - 🚆 **Siemens** applies predictive maintenance on trains to anticipate failures, reducing downtime and extending equipment lifespan.  
 
 ---
@@ -57,7 +57,7 @@ By analyzing operational data, businesses can **identify bottlenecks, streamline
 Data science provides tools to **identify, measure, and mitigate risks**, protecting financial assets and corporate reputation.  
 
 **Examples:**  
-- 🏦 **JPMorgan Chase** applies real-time fraud detection models to identify suspicious transactions and prevent losses.  
+- 🏦 **Banking Sector** applies real-time fraud detection models to identify suspicious transactions and prevent losses.  
 - 🛡️ **Insurance companies** use predictive modeling to assess customer risk, enabling accurate policy pricing.  
 
 ---
