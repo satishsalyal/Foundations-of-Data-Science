@@ -18,7 +18,7 @@ Data science leverages **statistical models**, **machine learning**, and **big d
 
 ---
 
-## 📘 Role of Data Science in Decision Making
+## 📘 Role of Data Science in Business Management
 
 ## 🔹 Improving Decision-Making  
 
