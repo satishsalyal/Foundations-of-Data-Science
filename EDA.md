@@ -4,10 +4,15 @@ Exploratory Data Analysis (EDA), introduced by **John Tukey**, is a critical ste
 It allows researchers to:  
 
 ✔️ Explore and summarize data
+
 ✔️ Identify obvious errors
+
 ✔️ Understand patterns within the data
+
 ✔️ Validate assumptions before model building 
+
 ✔️ find interesting relations among the variables
+
 ✔️ Apply transformations when needed  
 
 EDA is all about **discovering the hidden story behind data** 🕵️‍♂️.  
