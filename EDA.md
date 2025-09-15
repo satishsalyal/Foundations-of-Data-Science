@@ -13,6 +13,17 @@ It allows researchers to:
 EDA is all about **discovering the hidden story behind data** 🕵️‍♂️.  
 
 ---
+## 📌 Why is EDA Important in Data Science?
+
+EDA provides critical insights before formal modeling or hypothesis testing. It:
+
+- Helps uncover hidden patterns and trends.
+- Detects outliers or anomalous events.
+- Validates assumptions about the data.
+- Ensures data quality and acuracy.
+- Assists stakeholders in refining their business questions.
+
+Ultimately, EDA strengthens the reliability of analytical results, making them more applicable to business objectives and decision-making. Once insights are gained, the findings can be leveraged for advanced statistical analysis or machine learning applications.
 
 ## 🔎 Types of Exploratory Data Analysis  
 
