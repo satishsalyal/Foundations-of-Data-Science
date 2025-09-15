@@ -3,9 +3,11 @@
 Exploratory Data Analysis (EDA), introduced by **John Tukey**, is a critical step in understanding datasets.  
 It allows researchers to:  
 
-✔️ Explore and summarize data  
-✔️ Detect anomalies and missing values  
-✔️ Validate assumptions before model building  
+✔️ Explore and summarize data
+✔️ Identify obvious errors
+✔️ Understand patterns within the data
+✔️ Validate assumptions before model building 
+find interesting relations among the variables
 ✔️ Apply transformations when needed  
 
 EDA is all about **discovering the hidden story behind data** 🕵️‍♂️.  
@@ -14,8 +16,12 @@ EDA is all about **discovering the hidden story behind data** 🕵️‍♂️.
 
 ## 🔎 Types of Exploratory Data Analysis  
 
-EDA can be classified into **non-graphical (quantitative)** and **graphical (visual)** methods, applied to either **univariate** (single variable) or **multivariate** (multiple variables) data.  
+There are four primary types of EDA:
 
+## Univariate non-graphical
+## Univariate graphical
+## Multivariate non-graphical
+## Multivariate graphical
 ---
 
 ### 1️⃣ Univariate Non-Graphical Analysis  
@@ -72,13 +78,10 @@ Represents relationships between **two or more variables** visually.
 Several programming languages and libraries simplify EDA:  
 
 1. **R**  
-   - 🟢 Open-source language for **statistical computing & visualization**  
-   - Widely used among statisticians  
+   - 🟢 Python: An interpreted, object-oriented programming language with dynamic semantics. Its high-level, built-in data structures, combined with dynamic typing and dynamic binding, make it very attractive for rapid application development, as well as for use as a scripting or glue language to connect existing components together. Python and EDA can be used together to identify missing values in a data set, which is important so you can decide how to handle missing values for machine learning. 
 
 2. **Python**  
-   - 🐍 Powerful, flexible, and beginner-friendly  
-   - Libraries: **Pandas, Matplotlib, Seaborn**  
-   - Great for detecting missing values, summarizing variables, and visualization  
+   - 🐍 Python: An interpreted, object-oriented programming language with dynamic semantics. Its high-level, built-in data structures, combined with dynamic typing and dynamic binding, make it very attractive for rapid application development, as well as for use as a scripting or glue language to connect existing components together. Python and EDA can be used together to identify missing values in a data set, which is important so you can decide how to handle missing values for machine learning.
 
 ---
 
