@@ -18,10 +18,10 @@ EDA is all about **discovering the hidden story behind data** 🕵️‍♂️.
 
 There are four primary types of EDA:
 
-## Univariate non-graphical
-## Univariate graphical
-## Multivariate non-graphical
-## Multivariate graphical
+1. Univariate non-graphical
+2. Univariate graphical
+3. Multivariate non-graphical
+4. Multivariate graphical
 ---
 
 ### 1️⃣ Univariate Non-Graphical Analysis  
@@ -36,17 +36,7 @@ Focuses on a **single variable** to understand its distribution.
 
 ---
 
-### 2️⃣ Multivariate Non-Graphical Analysis  
-Explores **relationships between two or more variables** using numbers and tables.  
-
-- **Cross-tabulation:** Two-way tables for categorical data  
-- **Comparative statistics:** Compare means/medians across groups (ANOVA-like approaches)  
-
-💡 *Example:* Comparing average sales across different regions.  
-
----
-
-### 3️⃣ Univariate Graphical Analysis  
+### 2️⃣ Univariate Graphical Analysis  
 Uses visuals 📈 to provide deeper insights into single-variable data.  
 
 **Common Techniques:**  
@@ -56,6 +46,16 @@ Uses visuals 📈 to provide deeper insights into single-variable data.
 - 📐 **QQ Plot** → Tests data distribution against a theoretical model  
 
 💡 *Example:* A histogram of customers’ ages in a retail store.  
+
+---
+
+### 3️⃣  Multivariate Non-Graphical Analysis  
+Explores **relationships between two or more variables** using numbers and tables.  
+
+- **Cross-tabulation:** Two-way tables for categorical data  
+- **Comparative statistics:** Compare means/medians across groups (ANOVA-like approaches)  
+
+💡 *Example:* Comparing average sales across different regions. 
 
 ---
 
