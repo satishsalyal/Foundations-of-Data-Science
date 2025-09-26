@@ -37,7 +37,7 @@ There are four primary types of EDA:
 
 ```mermaid
 graph TB
-  A[Exploratory Data Analysis] --> B1[Univariate\nNon-graphical]
+  A[Exploratory Data Analysis] --> B1[Univariate Non-graphical]
   A --> B2[Univariate\nGraphical]
   A --> B3[Multivariate\nNon-graphical]
   A --> B4[Multivariate\nGraphical]
