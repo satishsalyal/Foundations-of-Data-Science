@@ -34,27 +34,7 @@ There are four primary types of EDA:
 3. Multivariate non-graphical
 4. Multivariate graphical
 ---
-
-Exploratory Data Analysis (EDA)
-├─ Univariate — Non-graphical
-│ ├─ Summary statistics (mean, median, standard deviation, IQR)
-│ └─ Frequency tables / counts
-│
-├─ Univariate — Graphical
-│ ├─ Histogram
-│ ├─ Boxplot
-│ └─ Density plot
-│
-├─ Multivariate — Non-graphical
-│ ├─ Cross-tabulations (contingency tables)
-│ ├─ Correlation matrix (numeric)
-│ └─ Statistical summaries (ANOVA, chi-square)
-│
-└─ Multivariate — Graphical
-├─ Scatterplots (pairwise)
-├─ Heatmaps (correlation / pivot values)
-└─ Pairplots / Small multiples
-  
+ 
 
 
 ### 1️⃣ Univariate Non-Graphical Analysis  
