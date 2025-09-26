@@ -35,29 +35,27 @@ There are four primary types of EDA:
 4. Multivariate graphical
 ---
 
-```mermaid
-graph TB
-  A[Exploratory Data Analysis] --> B1[Univariate Non-graphical]
-  A --> B2[Univariate\nGraphical]
-  A --> B3[Multivariate\nNon-graphical]
-  A --> B4[Multivariate\nGraphical]
+Exploratory Data Analysis (EDA)
+├─ Univariate — Non-graphical
+│ ├─ Summary statistics (mean, median, standard deviation, IQR)
+│ └─ Frequency tables / counts
+│
+├─ Univariate — Graphical
+│ ├─ Histogram
+│ ├─ Boxplot
+│ └─ Density plot
+│
+├─ Multivariate — Non-graphical
+│ ├─ Cross-tabulations (contingency tables)
+│ ├─ Correlation matrix (numeric)
+│ └─ Statistical summaries (ANOVA, chi-square)
+│
+└─ Multivariate — Graphical
+├─ Scatterplots (pairwise)
+├─ Heatmaps (correlation / pivot values)
+└─ Pairplots / Small multiples
+  
 
-  B1 --> B1a[Summary stats\n(mean, median, sd, IQR)]
-  B1 --> B1b[Frequency tables\nand counts]
-
-  B2 --> B2a[Histograms]
-  B2 --> B2b[Boxplots]
-  B2 --> B2c[Density plots]
-
-  B3 --> B3a[Cross-tabulations\n(contingency tables)]
-  B3 --> B3b[Correlation\nmatrices (numeric)]
-  B3 --> B3c[Chi-square tests /\nANOVA summaries]
-
-  B4 --> B4a[Scatterplots\n(pairwise)]
-  B4 --> B4b[Heatmaps\n(corr matrix)]
-  B4 --> B4c[Pairplots /\nSmall multiples]
-
-```
 
 ### 1️⃣ Univariate Non-Graphical Analysis  
 Focuses on a **single variable** to understand its distribution.  
