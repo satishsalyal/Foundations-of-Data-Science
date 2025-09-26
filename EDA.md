@@ -1,7 +1,7 @@
 # 📊 Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis (EDA), introduced by **John Tukey**, is a critical step in understanding datasets.  
-It allows researchers to:  
+It allows data scientists to:  
 
 - ✔️ Explore and summarize data
 - ✔️ Identify obvious errors
