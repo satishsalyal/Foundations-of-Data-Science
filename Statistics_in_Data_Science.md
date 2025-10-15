@@ -17,7 +17,7 @@
 **Definition:**  
 The arithmetic mean is the simplest and most widely used measure of a mean, or average. It simply involves taking the sum of a group of values and then dividing by the total number of values.
 
-\[
+\[ 
 \text{Mean } (\mu) = \frac{\sum X}{n}
 \]
 
