@@ -3,23 +3,7 @@
 > **Statistics** is the science of **collecting, analyzing, interpreting, and presenting data** to uncover meaningful patterns and make informed decisions.  
 > In **Data Science**, statistics serves as the **backbone** for understanding data, validating models, and making reliable predictions.
 
----
 
-## 🌟 Importance of Statistics in Data Science
-
-1. **Summarizing Data:**  
-   Describes data using measures like **mean**, **median**, and **variance**.
-
-2. **Modeling Uncertainty:**  
-   Uses **probability** and **distributions** to handle uncertainty and quantify risk.
-
-3. **Hypothesis Testing:**  
-   Tests assumptions (e.g., **A/B testing**) to validate results.
-
-4. **Identifying Relationships:**  
-   Finds relationships between variables using **correlation** and **regression**.
-
----
 
 # ⚖️ Measures of Central Tendency
 
@@ -31,7 +15,7 @@
 ## 🧮 1. Mean (Arithmetic Average)
 
 **Definition:**  
-The mean is the sum of all data values divided by the total number of values.
+The arithmetic mean is the simplest and most widely used measure of a mean, or average. It simply involves taking the sum of a group of values and then dividing by the total number of values.
 
 \[
 \text{Mean } (\mu) = \frac{\sum X}{n}
@@ -53,7 +37,7 @@ Mean = (10 + 15 + 20 + 25 + 30) / 5 = 20
 ## ⚖️ 2. Median
 
 **Definition:**  
-The **median** is the middle value when data is sorted in ascending or descending order.
+The **median**, in statistics, is the middle value of the given list of data when arranged in an order. The order of data or observations can be made either in ascending order or descending order. .
 
 - **Odd number of values:** Middle value  
 - **Even number of values:** Average of two middle values  
@@ -73,7 +57,7 @@ Even Data: 10, 20, 30, 40 → Median = (20 + 30)/2 = 25
 ## 🔁 3. Mode
 
 **Definition:**  
-The **mode** is the most frequently occurring value in a dataset.
+A **mode** is defined as the value that has a higher frequency in a given set of values. It is the value that appears the most number of times. 
 
 **Example:**
 ```text
@@ -81,8 +65,23 @@ Data: 4, 5, 6, 6, 7, 8, 9 → Mode = 6
 ```
 
 **Key Points:**
-- Can be **no mode**, **bimodal**, or **multimodal**.  
-- Useful for **categorical data** (e.g., most sold product, favorite subject).
+### Bimodal, Trimodal & Multimodal (More than one mode)
+  - When there are two modes in a data set, then the set is called bimodal
+     For example, The mode of Set A = {2,2,2,3,4,4,5,5,5} is 2 and 5, because both 2 and 5 is repeated three times in the given set.
+
+- When there are three modes in a data set, then the set is called trimodal
+    For example, the mode of set A = {2,2,2,3,4,4,5,5,5,7,8,8,8} is 2, 5 and 8
+
+- When there are four or more modes in a data set, then the set is called multimodal
+
+### 📊 Mean, Median, and Mode Comparison
+
+| **Measure** | **Description** | **Example** |
+|:-------------|:----------------|:-------------|
+| **Mean** | Mean is the average value obtained by dividing the sum of all values by the total number of values.<br><br>**Formula:**<br>Mean = (Sum of Observations) / (Number of Observations) | For the dataset **{2, 2, 3, 4, 5}**:<br>Mean = (2 + 2 + 3 + 4 + 5) / 5 = **3.2** |
+| **Median** | The median is the central value of a dataset when arranged in ascending or descending order. | For the dataset **{2, 2, 3, 4, 5}**:<br>Median = **3** |
+| **Mode** | The mode is the value that appears most frequently in a dataset. | For the dataset **{2, 2, 3, 4, 5}**:<br>Mode = **2** |
+
 
 ---
 
