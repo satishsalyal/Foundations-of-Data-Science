@@ -182,4 +182,4 @@ $\[
 
 ---
 
-![GitHub Markdown Badge](https://img.shields.io/badge/Markdown-Stylish--GitHub--Note-blue?logo=markdown)
+
