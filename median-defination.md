@@ -75,7 +75,7 @@ The **median** is the central value that divides a dataset into two equal halves
 ### Example
 
 - Median of **3, 3, 5, 9, 11** = **5**  
-- Median of **3, 5, 7, 9** = \( \frac{5 + 7}{2} = 6 \)
+- Median of **3, 5, 7, 9** = $\( \frac{5 + 7}{2} = 6 \)$
 
 ---
 
@@ -83,8 +83,8 @@ The **median** is the central value that divides a dataset into two equal halves
 
 | Case | Formula | Example | Result |
 |------|----------|----------|---------|
-| Odd n | \( (n+1)/2^{th} \) term | 15 values → 8th term | 24 |
-| Even n | \( (n/2^{th} + (n/2 + 1)^{th}) / 2 \) | 6 values → (3rd + 4th)/2 | Average of middle two |
+| Odd n | $\( (n+1)/2^{th} \)$ term | 15 values → 8th term | 24 |
+| Even n | $\( (n/2^{th} + (n/2 + 1)^{th}) / 2 \)$ | 6 values → (3rd + 4th)/2 | Average of middle two |
 
 ---
 
