@@ -75,9 +75,9 @@ A data set with **four or more modes**.
 In **grouped frequency distributions**, the mode cannot be identified by simple observation.  
 Instead, it is determined using the **modal class** and the formula below:
 
-\[
+$\[
 \text{Mode} = l + \left( \frac{f_1 - f_0}{2f_1 - f_0 - f_2} \right) \times h
-\]
+\]$
 
 Where:
 
@@ -145,13 +145,13 @@ In a class of 30 students, the marks obtained in mathematics (out of 50) are tab
 - \( f_0 = 7 \)  
 - \( f_2 = 8 \)
 
-\[
+$\[
 \text{Mode} = 20 + \left( \frac{12 - 7}{2(12) - 7 - 8} \right) \times 10
-\]
+\]$
 
-\[
+$\[
 \text{Mode} = 20 + \left( \frac{5}{24 - 15} \right) \times 10 = 20 + \left( \frac{5}{9} \right) \times 10 = 25.56
-\]
+\]$
 
 📏 **Final Answer:**  
 **Mode ≈ 25.56**
