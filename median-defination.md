@@ -1,4 +1,4 @@
-# 🧮 Median Formula — Complete Guide
+# 🧮 Median Formula 
 
 The **median** represents the middle value of an ordered dataset. It separates the higher half from the lower half of a data sample, population, or probability distribution.
 
