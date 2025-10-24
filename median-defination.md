@@ -20,7 +20,7 @@ where *n* is the total number of observations.
 
 If the total number of observations (**n**) is **even**, the median is given by:
 
-\[ \text{Median} = \frac{\left( \frac{n}{2} \right)^{th} \text{term} + \left( \frac{n}{2} + 1 \right)^{th} \text{term}}{2} \]
+$\[ \text{Median} = \frac{\left( \frac{n}{2} \right)^{th} \text{term} + \left( \frac{n}{2} + 1 \right)^{th} \text{term}}{2} \]$
 
 where *n* is the total number of observations.
 
