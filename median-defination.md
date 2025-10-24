@@ -12,7 +12,7 @@ The formula to calculate the median depends on whether the number of observation
 
 If the total number of observations (**n**) is **odd**, the median is given by:
 
-\[ \text{Median} = \left( \frac{n + 1}{2} \right)^{th} \text{term} \]
+$\[ \text{Median} = \left( \frac{n + 1}{2} \right)^{th} \text{term} \]$
 
 where *n* is the total number of observations.
 
