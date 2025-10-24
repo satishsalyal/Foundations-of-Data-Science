@@ -99,15 +99,6 @@ For grouped data, we can find the mean using either of the following formulas.
 Mean = Σ(fixi) / Σ(fi)
 ```
 
-### Assumed mean method:
-```
-Mean = A + (Σ(fi * di)) / Σ(fi)
-```
-
-### Step-deviation method:
-```
-Mean = A + [(Σ(fi * ui)) / Σ(fi)] * h
-```
 
 ---
 
