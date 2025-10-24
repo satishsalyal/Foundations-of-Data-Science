@@ -16,7 +16,8 @@
 
 **Definition:**  
 The arithmetic mean is the simplest and most widely used measure of a mean, or average. It simply involves taking the sum of a group of values and then dividing by the total number of values.
-
+The formula for the arithmetic mean is:
+$$ \bar{x} = \frac{x_1 + x_2 + \dots + x_n}{n} = \frac{1}{n} \sum_{i=1}^{n} x_i $$
 \[ 
 \text{Mean } (\mu) = \frac{\sum X}{n}
 \]
