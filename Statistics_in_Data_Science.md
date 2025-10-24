@@ -20,10 +20,6 @@ The formula for the arithmetic mean is:
 
 $$ \bar{x} = \frac{x_1 + x_2 + \dots + x_n}{n} = \frac{1}{n} \sum_{i=1}^{n} x_i $$
 
-\[ 
-\text{Mean } (\mu) = \frac{\sum X}{n}
-\]
-
 **Example:**
 ```text
 Data: 10, 15, 20, 25, 30  
