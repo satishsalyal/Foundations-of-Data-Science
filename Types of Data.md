@@ -123,7 +123,7 @@ Used to quantify variables and answer questions such as:
 ✅ **Qualitative Data** — tells you *why* or *how*  
 ✅ Use **quantitative** methods for precision and measurement  
 ✅ Use **qualitative** methods for understanding meaning and context  
-✅ Both together create a **complete data story**
+
 
 ---
 
