@@ -3,7 +3,6 @@
 
 ### 📘 Course Title: Foundation of Data Science  
 ### 🧾 Course Code: UGMJIT1001  
-### 🧑‍🏫 Instructor: _____________________  
 ### 🗓️ Due Date: **10/11/2025**  
 
 ---
