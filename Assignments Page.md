@@ -46,8 +46,8 @@ Find:
 ---
 
 ### **Problem 2**
-The following data shows the daily number of website visits for a startup over 8 days:
-120, 150, 200, 150, 180, 220, 200, 250
+The following data shows the daily number of website visits for a startup over 7 days:
+120, 150, 200, 150, 180, 220, 200
 
 Compute:
 - Mean  
