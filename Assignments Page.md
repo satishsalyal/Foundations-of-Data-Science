@@ -19,16 +19,15 @@ The purpose of this assignment is to help students understand and compute the fu
 ---
 
 ## 📋 **Instructions**
-1. Each student must solve **two problems** involving the calculation of:
+1. Each student must solve followinf **two problems** involving the calculation of:
    - Mean  
    - Median  
    - Mode  
    - Variance  
    - Standard Deviation  
-2. Show all steps clearly. You may solve the problems **manually** or using **Python/R/Excel**.  
+2. Show all steps clearly. You must solve the problems **manually**.  
 3. Present your answers neatly with proper working steps.  
-4. Submit your assignment in **PDF or handwritten scanned format** via the department portal or email.  
-5. Late submissions after the due date **will not be accepted**.
+4. Submit your assignment in ** handwritten format** 
 
 ---
 
@@ -49,7 +48,7 @@ Find:
 
 ### **Problem 2**
 The following data shows the daily number of website visits for a startup over 8 days:
-
+120, 150, 200, 150, 180, 220, 200, 250
 
 Compute:
 - Mean  
