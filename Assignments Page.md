@@ -18,7 +18,7 @@ The purpose of this assignment is to help students understand and compute the fu
 ---
 
 ## 📋 **Instructions**
-1. Each student must solve followinf **two problems** involving the calculation of:
+1. Each student must solve the following **two problems** involving the calculation of:
    - Mean  
    - Median  
    - Mode  
