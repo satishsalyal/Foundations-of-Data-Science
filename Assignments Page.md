@@ -26,7 +26,7 @@ The purpose of this assignment is to help students understand and compute the fu
    - Standard Deviation  
 2. Show all steps clearly. You must solve the problems **manually**.  
 3. Present your answers neatly with proper working steps.  
-4. Submit your assignment in ** handwritten format** 
+4. Submit your assignment in **handwritten format** 
 
 ---
 
