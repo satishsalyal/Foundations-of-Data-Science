@@ -1,5 +1,4 @@
-# 🧮 Department of Information Technology  
-## **Assignment – 01**
+# 🧮 Assignment – 01
 
 ### 📘 Course Title: Foundation of Data Science  
 ### 🧾 Course Code: UGMJIT1001  
