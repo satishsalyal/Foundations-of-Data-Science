@@ -1,13 +1,11 @@
-# 📊 Scales of Measurement in Statistics
+# 📊 Scales of Measurement in Data Science
 
 ---
-
-## 🧠 What are Scales of Measurement in Statistics?
 
 When data is collected for a study, the next step is to analyze it — which depends on the **tools used for data collection**.  
 
 For example:
-- For **qualitative data**, we can use certain labels (**nominal scale**) from which respondents select options.  
+- For **qualitative data**, we can use certain labels (**nominal scale** and **Ordinal scale**) from which respondents select options.  
 - For **quantitative data**, **interval** and **ratio scales** can be used to represent data numerically.
 
 ### 🔹 Example
