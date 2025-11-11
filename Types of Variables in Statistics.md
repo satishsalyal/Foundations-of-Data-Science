@@ -149,9 +149,11 @@ A researcher studies how study time affects exam scores.
       ┌──────────────┴──────────────┐
       │                             │
   Qualitative (Categorical) Quantitative (Numerical)
+  
          │                                  │
   ┌──────┴──────┐                    ┌──────┴──────┐
   │             │                    │             │
+  
  Nominal   Ordinal              Discrete     Continuous
 
 ---
