@@ -153,6 +153,7 @@ A researcher studies how study time affects exam scores.
   ┌──────┴──────┐                    ┌──────┴──────┐
   │             │                    │             │
  Nominal   Ordinal              Discrete     Continuous
+
 ---
 
 ## 🧰 9. Practice Exercises
