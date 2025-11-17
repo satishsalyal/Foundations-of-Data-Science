@@ -6,6 +6,27 @@
 ## 🔹 What is SQL (MySQL)?
 
 **SQL (Structured Query Language)** is the standard language used to interact with **Relational Database Management Systems (RDBMS)** such as **MySQL, PostgreSQL, Oracle, SQL Server**, etc.
+# 🐬 **History of MySQL**
+
+---
+
+## 📜 **Inception (1994–1995)**
+- Development of MySQL began in **1994** by a Swedish company, **MySQL AB**, founded by **Michael Widenius, David Axmark, and Allan Larsson**.  
+- The first version was released on **May 23, 1995**.  
+- The name **"MySQL"** comes from Widenius's daughter, **"My"**.
+
+---
+
+## 🌍 **Open Source and Popularity (2000s)**
+- MySQL became **open-source** under the **GNU General Public License (GPL)** in **2000**.  
+- It quickly gained popularity, becoming a foundational component of the **LAMP stack**  
+  *(Linux, Apache, MySQL, Perl/PHP/Python)*.
+
+---
+
+## 🏢 **Acquisitions (2008–2010)**  
+- **2008:** MySQL AB was acquired by **Sun Microsystems** for approximately **$1 billion**.  
+- **2010:** Oracle Corporation acquired Sun Microsystems, thus **taking ownership of MySQL**.
 
 SQL databases store data in **tables**, which consist of **rows** and **columns**, and tables are connected through **relationships**.
 
@@ -68,6 +89,23 @@ This retrieves all employees from the IT department.
 ## 🔹 What is NoSQL (MongoDB)?
 
 **NoSQL (Not Only SQL)** databases are used for storing **unstructured, semi-structured, or flexible** data. MongoDB is a popular **document-based NoSQL database**.
+# 🍃 **History of MongoDB**
+
+---
+
+## 🧱 **Inception (2007)**
+- MongoDB was developed by the American software company **10gen** (now **MongoDB Inc.**) in **2007** as a component for a planned *platform-as-a-service* product.  
+- The name **"MongoDB"** is a play on **"humongous"**, reflecting its goal to handle **large amounts of data**.
+
+---
+
+## 🚀 **Initial Release and Popularity (2009–2013)**
+- The first version was released in **February 2009**.  
+- It quickly gained popularity as a **NoSQL (non-relational), document-oriented database** due to its **flexibility** and **scalability**.  
+- MongoDB uses **JSON-like BSON documents** to store data with a **dynamic schema**.  
+- In **2013**, the company changed its name to **MongoDB Inc.**.
+
+---
 
 ### **Characteristics**
 
