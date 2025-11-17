@@ -2,7 +2,6 @@
 
 ---
 
-![SQL vs NoSQL Diagram](https://github.com/satishsalyal/Foundations-of-Data-Science/blob/main/sql.png)
 
 ## 🔹 What is SQL (MySQL)?
 
