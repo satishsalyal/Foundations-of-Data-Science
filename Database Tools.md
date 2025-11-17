@@ -2,6 +2,8 @@
 
 ---
 
+![SQL vs NoSQL Diagram](https://github.com/satishsalyal/Foundations-of-Data-Science/blob/main/sqlnosql.png)
+
 ## 🔹 What is SQL (MySQL)?
 
 **SQL (Structured Query Language)** is the standard language used to interact with **Relational Database Management Systems (RDBMS)** such as **MySQL, PostgreSQL, Oracle, SQL Server**, etc.
