@@ -1,4 +1,4 @@
-![Bi Tools](https://github.com/satishsalyal/Foundations-of-Data-Science/blob/main/BItools.md)
+![Bi Tools](https://github.com/satishsalyal/Foundations-of-Data-Science/blob/main/bitools.png)
 
 # 📊 Business Intelligence Tools: Power BI vs Tableau
 
