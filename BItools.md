@@ -1,7 +1,7 @@
 
 # 📊 Business Intelligence Tools: Power BI vs Tableau
 
-Business intelligence (BI) tools have become indispensable for modern organizations aiming to make informed, strategic decisions. By facilitating data exploration and visualization, these tools empower businesses to uncover actionable insights that enhance growth and operational efficiency. In this blog, we delve into the critical differences between two industry-leading BI tools: Power BI and Tableau.
+Business intelligence (BI) tools have become indispensable for modern organizations aiming to make informed, strategic decisions. By facilitating data exploration and visualization, these tools empower businesses to uncover actionable insights that enhance growth and operational efficiency. In this lecture, we delve into the critical differences between two data analysis-leading BI tools: Power BI and Tableau.
 
 ---
 
