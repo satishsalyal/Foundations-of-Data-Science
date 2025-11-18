@@ -1,6 +1,4 @@
 ![Bi Tools](https://github.com/satishsalyal/Foundations-of-Data-Science/blob/main/bitools.png)
-<img src="https://example.com/image.png](https://github.com/satishsalyal/Foundations-of-Data-Science/blob/main/bitools.png)" alt="Image" width="400" height="100">
-
 
 # 📊 Business Intelligence Tools: Power BI vs Tableau
 
