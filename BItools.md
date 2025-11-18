@@ -137,13 +137,9 @@ Here’s a simple list of the pros and cons of Tableau:
 | Mobile Experience: Real-time apps                   | Mobile-optimized dashboards        |
 | Easy to Use: Yes                                    | Takes time                         |
 
----
 
-Here is your content converted into **clean, attractive, GitHub-style Markdown**, with **zero changes to the original wording** — only formatting added for clarity and presentation.
 
----
-
-# **Detailed Comparison of Tableau and Power BI Across Key Aspects**
+# **Detailed Comparison of Tableau and Power BI based on Important Aspects **
 
 ---
 
