@@ -9,7 +9,7 @@ Business intelligence (BI) tools have become indispensable for modern organizati
 ## 🔷 What is Power BI?
 
 Power BI, developed by Microsoft, is a robust BI platform aimed at streamlining data visualization and analysis
-Launched in 2013, Power BI has emerged as a newer but strong competitor to Tableau in the market
+established in 2013, Power BI has emerged as a newer but strong competitor to Tableau in the market
 The data visualization platform allows users to pull data from diverse sources, including Excel files, images, and databases. With its user-friendly interface, individuals without technical expertise can effortlessly build reports and interactive dashboards.
 
 ---
