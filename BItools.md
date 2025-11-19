@@ -81,7 +81,7 @@ Some of the most popular features of Tableau:
 * **Advanced Analytics:** Supports R, Python, and Tableau’s own calculations for deeper analysis
 * **Automatic Updates:** Schedules updates for dashboards and reports to reflect the latest data
 * **Cloud and On-Premise Options:** Offers deployment flexibility with Tableau Server and Tableau Online
-* **AI-Powered Features:** Provides AI-driven insights, forecasts, and trend analysis to predict outcomes
+* **AI-Powered Features:** Provides some AI-driven insights, forecasts, and trend analysis to predict outcomes
 
 ---
 
