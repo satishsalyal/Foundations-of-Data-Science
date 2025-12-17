@@ -1,4 +1,4 @@
-# 📊 Data Science Laboratory Experiments
+# 📊 Data Science Experiments
 
 ---
 
